@@ -21,3 +21,8 @@ Kullanıcı menü üzerinden işlem seçerek veritabanıyla etkileşime geçer.
 
 Program çalıştığında aşağıdaki seçenekler gösterilir:
 
+MYSQL VERİ TABANI İŞLEMLERİ 
+ 1-SQL Veri Ekle 
+ 2-SQL Veri SİL 
+ 3-SQL Verileri Görüntüle 
+ 4-SQL Veri Güncelleme
